@@ -1,0 +1,66 @@
+body {
+  color: #000000;
+  background-color: #FFFFFF;
+  background-image: url('/skyimge.jpg');
+  background-repeat: repeat;
+}
+
+a {
+  color: #FFFF00;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #551A8B;
+}
+
+a:active {
+  color: #FF0000;
+}
+
+table {
+  border-spacing: 10px;
+  margin: 0 auto;
+}
+
+img {
+  border: 0;
+}
+
+center {
+  text-align: center;
+}
+
+font[size="+3"] {
+  font-size: 24px;
+}
+
+font[size="+2"] {
+  font-size: 18px;
+}
+
+font[size="+1"] {
+  font-size: 14px;
+}
+
+font[size="-1"] {
+  font-size: 12px;
+}
+
+font[size="-2"] {
+  font-size: 10px;
+}
+
+form input[type="text"] {
+  width: 35em;
+  max-width: 100%;
+}
+
+form input[type="submit"] {
+  padding: 0.5em 1em;
+  font-size: 1em;
+}
+
+u {
+  text-decoration: underline;
+}
